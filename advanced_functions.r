@@ -2,3 +2,8 @@
 basic_math <-function(input){
   return (input+1)
 }
+
+bad_mouth <-function(input){
+  print("bunko")
+  return (input)
+}
